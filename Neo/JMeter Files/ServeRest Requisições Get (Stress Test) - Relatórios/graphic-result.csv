@@ -1,0 +1,606 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1728946036274,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,1,1,http://localhost:3000/usuarios,6,0,1
+1728946036874,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,2,2,http://localhost:3000/usuarios,5,0,1
+1728946037476,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,3,3,http://localhost:3000/usuarios,6,0,1
+1728946038076,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,4,4,http://localhost:3000/usuarios,4,0,0
+1728946038340,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,4,4,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946038674,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946038931,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946039563,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946040149,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946040422,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946040693,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946040944,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946041595,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946042156,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946042518,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946042712,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946043011,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946043606,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946044180,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946044599,8,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,0
+1728946044769,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946045034,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946045628,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946046275,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946046671,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946046806,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946047137,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946047647,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946048291,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946048731,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946048895,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946049154,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946049682,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946050351,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946050744,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946050979,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946051239,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946051715,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946052379,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946052785,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946052992,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946053274,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946053751,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946054413,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946054851,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946055066,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946055364,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946055789,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946056478,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946056883,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946057144,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946057392,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946057801,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946058507,8,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,0
+1728946058896,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946059154,8,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,0
+1728946059471,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946059885,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946060607,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946060962,12,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,12,0,0
+1728946061246,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946061565,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946061909,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946062641,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946063042,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946063338,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946063616,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946063956,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946064703,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946065068,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946065383,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946065651,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946066009,11,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,11,0,0
+1728946066740,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946067103,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946067398,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946067738,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946068030,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946068797,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946069117,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946069448,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946069769,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946070047,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946070818,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946071162,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946071523,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946071854,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946072059,11,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,11,0,0
+1728946072845,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946073261,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946073531,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946073962,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946074081,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946074943,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946075283,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946075625,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946075970,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946076126,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946077015,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946077336,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946077685,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946078017,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946078183,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946079091,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946079422,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946079772,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946080075,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946080257,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946081175,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946081484,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946081836,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946082083,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946082306,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946083213,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946083589,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946083847,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946084090,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946084348,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946085287,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946085677,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946085905,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946086183,8,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,0
+1728946086384,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946087360,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946087687,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946087963,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946088223,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946088463,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946089428,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946089708,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946090023,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946090262,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946090491,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946091536,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946091785,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946092040,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946092354,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946092559,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946093642,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946093814,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946094116,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946094432,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946094658,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946095716,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946095855,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946096161,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946096450,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946096680,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946097758,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946097923,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,2
+1728946098226,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946098509,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,2
+1728946098727,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,1
+1728946099858,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946099940,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946100261,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,2
+1728946100573,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946100820,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946101867,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946102023,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946102308,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946102620,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946102898,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946103900,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946104111,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946104383,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946104706,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946104983,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946105904,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946106156,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946106443,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946106794,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946107035,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946107933,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946108205,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946108492,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946108858,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946109045,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946110038,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946110243,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946110551,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946110964,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946111068,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946112100,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946112336,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946112568,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946113025,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946113141,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946114170,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946114404,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946114662,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946115062,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946115243,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946116239,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946116481,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946116765,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946117108,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946117279,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946118256,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946118547,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946118772,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946119190,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946119349,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946120301,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946120578,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946120860,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946121283,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946121404,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946122311,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946122668,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946122868,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946123296,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946123504,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946124382,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946124688,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946124891,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946125361,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946125550,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946126436,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946126779,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946126957,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946127368,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946127590,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946128450,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946128856,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946129029,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946129400,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946129664,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946130478,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946130896,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946131105,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946131430,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946131712,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946132559,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946132907,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946133161,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946133480,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946133783,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946134652,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946134958,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946135190,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946135599,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946135871,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946136663,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946137064,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946137250,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946137693,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946137886,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946138761,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946139135,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946139314,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946139748,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946139904,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946140782,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946141151,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946141362,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946141808,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946141918,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946142796,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946143237,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946143462,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946143887,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946143930,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946144851,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946145250,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946145614,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946145967,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946145992,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946146877,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946147335,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946147683,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946148013,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946148078,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946148887,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946149401,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946149720,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946150074,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946150130,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946150916,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946151453,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946151741,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946152106,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946152206,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946152989,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946153549,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946153779,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946154157,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946154263,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946155059,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946155649,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946155806,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946156227,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946156354,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946157068,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946157676,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946157907,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946158256,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946158457,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946159171,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946159774,8,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,2
+1728946159986,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946160316,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,1
+1728946160481,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,1
+1728946161247,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,1
+1728946161823,9,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,9,0,0
+1728946162035,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,1
+1728946162363,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946162580,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946163273,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946163840,10,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,10,0,0
+1728946164165,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946164447,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946164594,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946165282,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946165919,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946166215,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946166553,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946166608,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946167308,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946167993,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946168268,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946168644,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946168658,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946169379,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946170029,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946170365,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946170709,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946170751,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946171446,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946172043,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946172386,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946172756,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946172777,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946173547,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946174051,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946174397,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946174786,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946174807,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946175575,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946176213,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946176438,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946176855,8,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,0
+1728946176857,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946177677,9,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,0
+1728946178304,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946178448,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946178943,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946178945,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946179705,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946180334,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946180548,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946180978,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946181002,10,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,10,0,0
+1728946181746,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946182418,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946182660,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946182996,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946183090,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946183849,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946184476,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946184730,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946185046,11,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,11,0,0
+1728946185157,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946185938,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946186569,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946186743,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946187219,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946187256,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946187998,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946188639,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946188789,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946189283,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946189335,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946190043,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946190701,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946190832,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946191353,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946191388,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946192107,13,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,13,0,0
+1728946192715,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946192835,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946193444,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946193478,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946194154,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946194750,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946194898,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946195513,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946195580,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946196244,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946196782,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946196964,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946197580,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946197717,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946198335,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946198850,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946199049,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946199626,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946199768,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946200355,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946200878,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946201093,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946201706,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946201841,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946202429,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946202960,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946203194,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946203772,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946203880,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946204516,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946205030,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946205224,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946205875,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946205967,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946206556,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946207049,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946207300,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946207955,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946208007,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946208568,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946209069,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946209346,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946210015,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946210066,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946210652,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946211120,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946211373,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946212071,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946212111,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946212756,339,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,339,0,0
+1728946213206,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946213393,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946214093,13,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,13,0,0
+1728946214283,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946215119,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946215350,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946215401,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946216157,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946216336,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946217202,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946217359,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946217427,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946218230,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946218439,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946219216,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946219392,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946219524,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946220316,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946220450,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,1
+1728946221314,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946221418,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,1
+1728946221560,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946222378,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,1
+1728946222501,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946223372,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946223435,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946223629,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,1
+1728946224435,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946224581,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946225444,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946225479,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946225774,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946226527,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946226675,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946227487,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946277495,9,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,1
+1728946227517,49755,Buscar usuário por ID,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,ServeRest Requisições Get (Stress Test) 2-1,text,false,,2441,0,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,0,0,0
+1728946278313,16,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,15,0,8
+1728946278452,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,2
+1728946279214,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,1
+1728946279849,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,1
+1728946279853,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946280830,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946280847,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946281280,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946281879,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946281938,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946282888,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946282932,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946283343,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946283905,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946283952,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946284950,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946284971,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946285378,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946286008,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946286025,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946286997,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946287055,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946287491,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946288053,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946288113,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946289022,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946289077,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946289534,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946290117,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946290149,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946291074,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946291114,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946291581,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946292220,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946292222,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946293091,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946293143,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946293661,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946294237,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946294323,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946295113,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946295167,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946295676,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946296306,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946296365,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946297129,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946297205,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946297717,22,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,22,0,0
+1728946298343,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946298420,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946299199,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946299212,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946299833,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946300444,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946300578,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946301233,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946301294,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946301891,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946302493,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946302583,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946303239,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946303395,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946303926,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946304627,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946304683,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946305308,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946305563,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946306061,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946306668,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946306778,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946307338,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946307598,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946308103,6,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,6,0,0
+1728946308750,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946308873,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946309401,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946309645,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946310249,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946310826,8,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,8,0,0
+1728946310889,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946311494,9,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,9,0,0
+1728946311705,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946312336,47,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,46,0,0
+1728946312906,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946313595,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946312944,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946313801,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946314503,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946314994,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946315731,8,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,8,0,0
+1728946315732,8,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,8,0,0
+1728946315862,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946316607,8,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,8,0,0
+1728946317450,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946317793,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946317815,7,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,7,0,0
+1728946317916,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,1,0,0
+1728946318625,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946319490,7,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,7,0,0
+1728946319852,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946319859,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946319977,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946320687,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946321523,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946321873,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946321940,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946322052,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946322704,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946323576,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946323954,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946324032,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946324146,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946324782,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946325607,6,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,6,0,0
+1728946325960,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946326155,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946326184,1,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,1,0,0
+1728946326827,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946327646,2,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,2,0,0
+1728946328015,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946328187,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946328254,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946328875,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946329707,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946330189,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946330258,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946330267,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946330898,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946331759,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946332194,3,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,1769,127,5,5,http://localhost:3000/usuarios,3,0,0
+1728946332281,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
+1728946332349,5,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,5,0,0
+1728946332912,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946333805,5,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,1769,127,5,5,http://localhost:3000/usuarios,5,0,0
+1728946334262,3,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-5,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,3,0,0
+1728946334295,2,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-2,text,true,,1769,127,5,5,http://localhost:3000/usuarios,2,0,0
+1728946334409,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-3,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946335001,4,Listar usuários cadastrados,200,OK,ServeRest Requisições Get (Stress Test) 2-4,text,true,,1769,127,5,5,http://localhost:3000/usuarios,4,0,0
+1728946335859,4,Buscar usuário por ID,200,OK,ServeRest Requisições Get (Stress Test) 2-1,text,true,,567,144,5,5,http://localhost:3000/usuarios/0uxuPY0cbmQhpEz1,4,0,0
